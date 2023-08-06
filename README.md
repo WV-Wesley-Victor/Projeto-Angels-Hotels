@@ -1,0 +1,2 @@
+# Projeto Angels Hotels
+ Este é um repositório no GitHub dedicado ao projeto Angels Hotels, um site de hospedagens de hotel fictício. O objetivo deste projeto é fornecer um exemplo de implementação de um site de hospedagens, apresentando informações sobre diferentes quartos, tarifas, comodidades e opções de reserva. Aprenda como criar um layout atraente e funcional para um site de hospedagens usando HTML e CSS.
