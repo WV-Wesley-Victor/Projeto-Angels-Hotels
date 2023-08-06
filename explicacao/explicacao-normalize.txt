@@ -1,0 +1,23 @@
+O arquivo normalize.css é um recurso muito útil e amplamente utilizado em desenvolvimento web para ajudar a normalizar ou equalizar os estilos padrão dos navegadores em diferentes sistemas operacionais e dispositivos. Ele aborda inconsistências de estilo entre navegadores, fornecendo um conjunto de regras CSS que garantem que os elementos HTML sejam renderizados de maneira consistente em todos os navegadores modernos.
+
+Aqui estão alguns dos principais objetivos e características do normalize.css:
+
+1 - Resets Padrão: O arquivo normaliza as configurações de estilo padrão de diferentes navegadores, garantindo que todos comecem com uma base consistente.
+
+2 - Estilos de Elementos: O normalize.css fornece estilos básicos e consistentes para elementos HTML, como cabeçalhos (h1 a h6), parágrafos (p), listas (ul, ol, li), links (a), entre outros.
+
+3 - Bordas e Margens: Ele normaliza as margens e bordas dos elementos, garantindo que não haja espaços extras indesejados entre elementos.
+
+4 - Tamanhos de Fonte: O normalize.css define tamanhos de fonte consistentes para vários elementos, evitando variações não intencionais.
+
+5 - Formulários: Trata estilos de formulários, como tamanho de fonte, altura de linha e alinhamento vertical, para que sejam mais consistentes em diferentes navegadores.
+
+6 - Estilos de Botão: Normaliza os estilos de botão para que se comportem de maneira mais previsível em diferentes navegadores.
+
+7 - Compatibilidade com Responsividade: O normalize.css ajuda a garantir que os estilos de responsive design e media queries sejam aplicados de maneira consistente em vários navegadores.
+
+8 - Compatibilidade com Elementos HTML5: Ele lida com os estilos básicos de elementos HTML5, garantindo que sejam renderizados adequadamente em navegadores mais antigos.
+
+É importante observar que o normalize.css não é uma folha de estilos completa para estilizar seu site. Em vez disso, ele se concentra em normalizar os estilos básicos para criar uma base consistente em todos os navegadores. Depois de aplicar o normalize.css, você pode adicionar seus próprios estilos personalizados para criar a aparência desejada para o seu site.
+
+O normalize.css é uma alternativa mais sutil e menos invasiva em comparação com os chamados "resets CSS", que muitas vezes redefinem completamente os estilos padrão dos navegadores. Isso torna o normalize.css uma escolha popular entre os desenvolvedores que desejam manter a aparência padrão do navegador enquanto corrigem inconsistências e garantem uma base sólida para construir seus próprios estilos personalizados.

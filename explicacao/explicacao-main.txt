@@ -1,0 +1,27 @@
+Esse código CSS fornece estilos para várias partes do site. Vou explicar as partes mais importantes:
+
+1 - :root: Definição de variáveis de cor e espaço que podem ser usadas em todo o CSS.
+
+2 - html: Define a fonte padrão para o corpo do documento.
+
+3 - h1, h2, h3, h4: Define a fonte da família "Oxygen" para títulos de diferentes níveis.
+
+4 - .maxWidth: Define a largura máxima do conteúdo para uma exibição mais agradável.
+
+5 - .top_header: Estilos para o cabeçalho do topo.
+
+6 - .top_header_nav: Estilos para a navegação no topo.
+
+7 - .heroBanner: Estilos para a seção do banner principal.
+
+8 - .middleContent: Estilos para a seção de conteúdo intermediário.
+
+9 - .row e .col: Estilos para um sistema de layout baseado em grade responsivo.
+
+10 - .mainContent: Estilos para a seção de conteúdo principal.
+
+11 - .mainContent_container: Estilos para o contêiner de artigo na seção de conteúdo principal.
+
+12 - .footer: Estilos para o rodapé do site.
+
+Este código CSS aplica estilos responsivos para diferentes tamanhos de tela (md, lg, xl) e utiliza variáveis personalizadas para cores e espaçamento, o que torna a manutenção e personalização do site mais fácil e eficiente. Além disso, implementa um layout flexível para as diferentes seções do site e define estilos para links, cores de fundo, tamanho de fonte, entre outros.

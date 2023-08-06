@@ -1,0 +1,43 @@
+Vou explicar o código HTML fornecido:
+
+1 - <!DOCTYPE html>: Declaração do tipo de documento HTML5.
+
+2 - <html lang="pt-br">: Elemento raiz do documento HTML, com o atributo lang especificando o idioma como português do Brasil.
+
+3 - <head>: A seção do cabeçalho do documento, onde são inseridas metainformações e links para recursos externos.
+
+    - <meta charset="UTF-8">: Define o conjunto de caracteres como UTF-8 para suportar caracteres especiais.
+    - <meta name="viewport" content="width=device-width, initial-scale=1.0">: Define a configuração da viewport para ajustar o conteúdo à largura do dispositivo.
+    - <meta name="author" content="Wesley Victor Pereira Silva">: Define o autor do documento.
+    - <meta name="keywords" content="Angels Hotels, hospedagens, promoções, localização">: Palavras-chave relacionadas ao conteúdo do site.
+    - <meta name="description" content="Bem-vindo ao Angels Hotels...">: Descrição do site para fins de SEO.
+    - <title>Angels Hotels</title>: Define o título da página que aparece na aba do navegador.
+    - <link rel="preconnect" href="https://fonts.googleapis.com">: Estabelece uma conexão prévia com o servidor de fontes do Google.
+    - <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@400;700&display=swap" rel="stylesheet">: Importa a fonte "Oxygen" dos pesos 400 e 700 do Google Fonts.
+    - <link rel="stylesheet" href="assets/icomoon-icon/style.css">: Importa um arquivo de estilo de ícones Icomoon.
+    - <link rel="stylesheet" href="normalize.css">: Importa um arquivo de estilo que normaliza o comportamento padrão dos elementos HTML entre diferentes navegadores.
+    - <link rel="stylesheet" href="main.css">: Importa um arquivo de estilo principal chamado "main.css".
+
+4 - <body>: O corpo do documento HTML, onde o conteúdo visível é colocado.
+
+    - <header>: Cabeçalho do site que contém a logomarca e a navegação.
+        - <img src="images/logo_mob.svg" class="top_header_logo" alt="Angels Hotels">: Imagem da logomarca do Angels Hotels.
+        - <nav class="top_header_nav">: Navegação principal.
+            - <ul>: Lista não ordenada de links de navegação.
+                <li><a href="#">Home</a></li>: Item de menu "Home".
+                <li><a href="#">Hospedagens</a></li>: Item de menu "Hospedagens".
+                <li><a href="#">Promoções</a></li>: Item de menu "Promoções".
+                <li><a href="#">Localização</a></li>: Item de menu "Localização".
+
+    - <main>: Conteúdo principal do site.
+        - <section class="heroBanner">: Seção com um banner principal.
+            - Conteúdo de destaque e um botão para "Descubra mais".
+        - <section class="middleContent">: Seção com conteúdo intermediário.
+            - Quatro artigos que destacam diferentes aspectos do Angels Hotels.
+        - <section class="mainContent">: Seção com conteúdo principal.
+            - Quatro artigos detalhando diferentes tipos de acomodações.
+            
+    <footer class="footer">: Rodapé do site.
+        - Informações de direitos autorais e um parágrafo adicional.
+
+Este código HTML cria uma estrutura básica para o site "Angels Hotels", incluindo cabeçalho, conteúdo principal e rodapé. Ele utiliza classes para aplicar estilos a elementos específicos e será estilizado com CSS fornecido em arquivos externos como "main.css".
