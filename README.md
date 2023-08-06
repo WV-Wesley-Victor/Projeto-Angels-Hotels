@@ -3,7 +3,7 @@ Este é um repositório no GitHub dedicado ao projeto Angels Hotels, um site de 
 
 ![Captura de Tela (66)](https://github.com/WV-Wesley-Victor/Projeto-Angels-Hotels/assets/137107062/765d1992-46ab-4c85-a70c-99427f72e5fb)
 <p align="center">
-  <a href="https://wv-wesley-victor.github.io/Formulario-de-Login-e-Cadastro/" target="_blank">Clique aqui para visitar o projeto</a>
+  <a href="https://wv-wesley-victor.github.io/Projeto-Angels-Hotels/" target="_blank">Clique aqui para visitar o projeto</a>
 </p>
 
 ## Descrição
